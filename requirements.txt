@@ -1,0 +1,5 @@
+pyodbc
+pandas
+faker
+rapidjson
+boto3
